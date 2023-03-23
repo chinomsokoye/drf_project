@@ -44,7 +44,7 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 `venv\Scripts\activate.bat`
 
 **Linux**
-`source venv/bin/activate
+`source venv/bin/activate`
 
 ## Local server
 
