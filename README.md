@@ -10,6 +10,9 @@ Curriculum <br>
 _For this project, look at this concept:_
 
 * [Portfolio project](https://www.intranet.alxswe.com/concepts/548)
+* [Docker](https://docs.docker.com/)
+* [httpie](https://www.httpie.io)
+* [cURL](https://everything.curl.dev/)
 
 # Django Rest Framework (DRF) Project
 The Full Django Rest Framework (DRF) project
