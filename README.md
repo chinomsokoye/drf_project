@@ -61,12 +61,22 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 
 Calls to Endpoints - Requests made to endpoints
 
-`Retrieve a single item from our endpoint API`
+`Retrieve orders from our endpoint API`
 
-![Retrieve a single item](/images/retrieve_single_item.PNG)
+```
+![Retrieve Orders](/images/retrieve_orders.PNG)
+```
 
-`Place order for an item on the endpoint API`
+`Place order for an item from our endpoint API`
 
-![Place an order](/images/place_order.PNG)
+```
+![Place Order](/images/place_order.PNG)
+```
+
+`Get order ID from our endpoint`
+
+```
+![Get Order](/images/get_order.PNG)
+```
 ***
 ***
