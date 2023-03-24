@@ -52,6 +52,8 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 ## Local server
 
 `python manage.py runserver`
+`http://127.0.0.1:8000/`
+`http://localhost:8000/`
 
 >Note: You can run tests and check the database with `python manage.py test` and `python manage.py shell`
 ***
