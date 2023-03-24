@@ -5,7 +5,7 @@ Curriculum <br>
 
 `Group project` `Front-end` `Back-end` `Portfolio project`
 
-#### Concepts
+### Concepts
 
 _For this project, look at this concept:_
 
