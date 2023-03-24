@@ -56,3 +56,9 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 >Note: You can run tests and check the database with `python manage.py test` and `python manage.py shell`
 ***
 ***
+
+## General Learning
+
+`Retrieve items`
+
+![Retrieve Items](/images/retrieve_items.PNG)
