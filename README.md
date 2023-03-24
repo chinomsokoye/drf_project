@@ -34,7 +34,7 @@ Requests written in (cURL)[https://curl.se/] and (httpie)[https://httpie.io/]
 
 (httpie)[https://httpie.io/] - terminal output for this type of project <br>
 Install locally to use commands via the terminal | C.L.I
->Note: (Httpie)[https://httpie.io/] is pre-installed in the docker container
+>Note: (httpie)[https://httpie.io/] is pre-installed in the docker container
 ***
 ***
 
