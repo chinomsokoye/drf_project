@@ -15,7 +15,7 @@ _For this project, look at this concept:_
 * [cURL](https://everything.curl.dev/)
 
 # Django Rest Framework (DRF) Project
-The Full Django Rest Framework (DRF) project
+Django Rest Framework (DRF) project. <br>
 This project builds an API application.
 ***
 ***
@@ -28,7 +28,7 @@ This project builds an API application.
 - cURL
 
 ## Considerations
-Install Docker and Docker Compose on your local machine
+Install Docker and Docker Compose on your local machine (httpie, cURL)
 
 Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 
@@ -46,16 +46,18 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 **Windows**
 `venv\Scripts\activate.bat`
 
-**Linux**
+**Mac/Linux**
 `source venv/bin/activate`
 
 ## Local server
 
-`python manage.py runserver`
-`http://127.0.0.1:8000/`
+`python manage.py runserver` <br>
+`http://127.0.0.1:8000/` <br>
 `http://localhost:8000/`
 
->Note: You can run tests and check the database with `python manage.py test` and `python manage.py shell`
+>Note: Run tests and check the database with the following <br>
+`python manage.py test` <br>
+`python manage.py shell`
 ***
 ***
 
