@@ -24,7 +24,7 @@ This project builds an API application
 - Python=>3.10 and above
 - PyPI-pip
 - httpie
-- Docker Desktop
+- Docker Desktop | compose
 - cURL
 
 ## Considerations
@@ -60,7 +60,6 @@ Install locally to use commands via the terminal | C.L.I
 
 >Note: Run tests and check the database with the following <br>
 `python manage.py test` <br>
-
 `python manage.py shell`
 ***
 ***
