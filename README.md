@@ -59,6 +59,14 @@ Requests written in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/]
 
 ## General Learning
 
-`Retrieve items`
+Calls to Endpoints - Requests made to endpoints
 
-![Retrieve Items](/images/retrieve_items.PNG)
+`Retrieve a single item from our endpoint API`
+
+![Retrieve a single item](/images/retrieve_single_item.PNG)
+
+`Place order for an item on the endpoint API`
+
+![Place an order](/images/place_order.PNG)
+***
+***
