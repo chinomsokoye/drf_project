@@ -59,9 +59,7 @@ Install locally to use commands via the terminal | C.L.I
 `http://localhost:8000/`
 
 >Note: Run tests and check the database with the following <br>
-`python manage.py test`
-
-`python manage.py shell`
+`python manage.py test` `python manage.py shell`
 ***
 ***
 
