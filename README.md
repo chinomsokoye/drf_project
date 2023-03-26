@@ -71,10 +71,12 @@ Calls to Endpoints - Requests made to endpoints
 `Retrieve orders from our endpoint API`
 
 ![Retrieve Orders](/images/retrieve_orders.PNG)
+***
 
 `Place order for an item from our endpoint API`
 
 ![Place Order](/images/place_order.PNG)
+***
 
 `Get order ID from our endpoint`
 
