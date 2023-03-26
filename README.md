@@ -45,9 +45,11 @@ Install locally to use commands via the terminal | C.L.I
 
 ## Activate the virtual environment
 **Windows** <br>
+
 `venv\Scripts\activate.bat`
 
 **Mac/Linux** <br>
+
 `source venv/bin/activate`
 
 ## Local server
