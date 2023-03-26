@@ -56,9 +56,7 @@ Install locally to use commands via the terminal | C.L.I
 
 `python manage.py runserver`
 
-`http://127.0.0.1:8000/`
-
-`http://localhost:8000/`
+`http://127.0.0.1:8000/` `http://localhost:8000/`
 
 >Note: Run tests and check the database with the following <br>
 `python manage.py test` `python manage.py shell`
