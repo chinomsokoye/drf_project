@@ -44,22 +44,23 @@ Install locally to use commands via the terminal | C.L.I
 `python -m venv venv`
 
 ## Activate the virtual environment
-**Windows**
+**Windows** <br>
 `venv\Scripts\activate.bat`
 
-**Mac/Linux**
+**Mac/Linux** <br>
 `source venv/bin/activate`
 
 ## Local server
 
-`python manage.py runserver` <br>
+`python manage.py runserver`
 
-`http://127.0.0.1:8000/` <br>
+`http://127.0.0.1:8000/`
 
 `http://localhost:8000/`
 
 >Note: Run tests and check the database with the following <br>
-`python manage.py test` <br>
+`python manage.py test`
+
 `python manage.py shell`
 ***
 ***
